@@ -25,8 +25,8 @@ When PCR amplifying from plasmids, make sure to gel-purify and/or dpn1 digest th
 1. Repeat wash an additional time.
 1. Do a final spin and resuspend pellet in 50uL sterile cold water.
 1. Add 50-100ng PCR product. 
-1. Transfer for a cold 1mm electrocuvette.
-1. Electroporate (1800V, 200ohm resistance, 25uF capacitance). The time constance should be >4.8ms.
+1. Transfer to a cold 1mm electrocuvette.
+1. Electroporate (1800V, 200ohm resistance, 25uF capacitance). The time constant should be >4.8ms.
 1. Recover in 3mL LB at 30-34C for 2.5-3 hours.
 1. Spin down entire culture and spread onto selective solid media. Incubate at 30-34C.
 1. In e. coli, colonies should appear within 24-36 hours.
