@@ -11,7 +11,7 @@ As a substrate, Lambda Red uses linear DNA (usually a PCR product) that contains
 Knocking out genes with lambda red is not that efficient (usually 1 in 100,000 cells), so you need to select for the knockout using an antibiotic selectable marker. For this you would PCR amplify an antibiotic selectable marker with primers that incorporate 50bp homology arms corresponding to the locus you are knocking out.
 
 ### For insertions 
-Similar to knockouts, for insertions, you would amplify the cassette-of-interest with primers than incorporate 50bp homology arms corresponding to the integration locus. Your cassette should include some sort of selectable market to select for successful integrations.  
+Similar to knockouts, for insertions, you would amplify the cassette-of-interest with primers that incorporate 50bp homology arms corresponding to the integration locus. Your cassette should include some sort of selectable market to select for successful integrations.  
 
 ### Note on PCR productes
 When PCR amplifying from plasmids, make sure to gel-purify and/or dpn1 digest the product to remove the plasmid template, which will interfere with downstream steps.
