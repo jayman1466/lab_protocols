@@ -11,7 +11,7 @@ As a substrate, Lambda Red uses linear DNA (usually a PCR product) that contains
 Knocking out genes with lambda red is not that efficient (usually 1 in 100,000 cells), so you need to select for the knockout using an antibiotic selectable marker. For this you would PCR amplify an antibiotic selectable marker with primers that incorporate 50bp homology arms corresponding to the locus you are knocking out.
 
 ### For insertions 
-Similar to knockouts, for insertions, you would amplify the cassette-of-interest with primers that incorporate 50bp homology arms corresponding to the integration locus. Your cassette should include some sort of selectable market to select for successful integrations.  
+Similar to knockouts, for insertions, you would amplify the cassette-of-interest with primers that incorporate 50bp homology arms corresponding to the integration locus. Your cassette should include some sort of selectable marker to select for successful integrations.  
 
 ### Note on PCR productes
 When PCR amplifying from plasmids, make sure to gel-purify and/or dpn1 digest the product to remove the plasmid template, which will interfere with downstream steps.
@@ -32,4 +32,4 @@ When PCR amplifying from plasmids, make sure to gel-purify and/or dpn1 digest th
 1. In e. coli, colonies should appear within 24-36 hours.
 
 ## Curing your strain of pORTMAGE
-If you used pORTMAGE as the source of the lambda red genes, it'll be useful to get rid of that plasmid. To do so, culture the strain for 24 hours at 34C (without adding the antibiotic that selects for pORTMAGE). Then culture another 24 hours at 37C (again without the antibiotic that selects for pORTMAGE). Then plate on LB. Check single colonies to see if they lost the plasmid.
+If you used pORTMAGE as the source of the lambda red genes, it'll be useful to get rid of that plasmid. To do so, pick a colony and culture the strain for 24 hours at 34C (without adding the antibiotic that selects for pORTMAGE). Then backdilute 1:1000 into a fresh culture for another 24 hours at 37C (again without the antibiotic that selects for pORTMAGE). Then plate on LB. Check single colonies to see if they lost the plasmid (the cells should no longer be resistant to the antibiotic on the portmage plasmid).
