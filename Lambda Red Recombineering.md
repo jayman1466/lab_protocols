@@ -2,9 +2,9 @@
 This protocol will allow you to use lambda red recombineering to site-specifically integrate or delete fragments in bacterial (usually E. coli) genomes. 
 
 ## Strain Requirements
-This type of genome engineering requires your strain to have three genes from the Lambda bacteriophage - Beta, Exo, and Gam. The E. coli strains EcNR1 and EcNR2 contain these genes already integrated into the BioAB locus into the genome. If working with other strains, you can use the plasmid **pORTMAGE** (available on Addgene) to introduce these genes in your strain.
+This type of genome engineering requires your strain to have three genes from the Lambda bacteriophage - Beta, Exo, and Gam. The E. coli strains EcNR1 and EcNR2 contain these genes already integrated into the BioAB locus into the genome. If working with other strains, you can use the plasmid **pORTMAGE** (available on Addgene) to introduce these genes into your strain.
 
-##DNA Requirments
+## DNA Requirments
 As a substrate, Lambda Red uses linear DNA (usually a PCR product) that contains **50bp homology arms** corresponding to the target site in the genome. For more info see [here](https://blog.addgene.org/lambda-red-a-homologous-recombination-based-technique-for-genetic-engineering).
 
 ### For knockouts
