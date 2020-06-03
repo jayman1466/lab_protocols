@@ -30,10 +30,10 @@
 1. Spin down the conical tubes. Discard the supernatant. Weight the tubes to determine the weight of the pellet.
 1. Resuspend the pellet in 1mL/gram Phosphate-Sodium buffer.
 1. Lyse the pellet:
-  1. Prepare homogenizer by running 70% EtOH through to clean.
-  1. Then run at least 500mL of ice-cold milliQ water through to clean and cool.
-  1. Finally run 100mL Phosphate-Sodium buffer to equilibrate
-  1. Now actually run the cell slurry: pour into sample funnel at top of instrument, start the flow through homogenizer at no pressure, then once primed increase pressure so that homogenization pressure (big gauge) peaks during compression cycle at ~15-20kPa. Flow rate is about 1mL per pump cycle.
+  2. Prepare homogenizer by running 70% EtOH through to clean.
+  2. Then run at least 500mL of ice-cold milliQ water through to clean and cool.
+  2. Finally run 100mL Phosphate-Sodium buffer to equilibrate
+  2. Now actually run the cell slurry: pour into sample funnel at top of instrument, start the flow through homogenizer at no pressure, then once primed increase pressure so that homogenization pressure (big gauge) peaks during compression cycle at ~15-20kPa. Flow rate is about 1mL per pump cycle.
   1. Run full volume through the instrument, collect at bottom in ice-cold vessel, then repeat by cyling the lysate through the homogenizer again.
   1. Clean out instrument with water, ethanol, water rinses.
 1. Spin down lysate 15mins at 11,500 rpm at 4C (corresponding to 16300g).
