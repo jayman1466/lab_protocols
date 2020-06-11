@@ -1,5 +1,5 @@
 # This protocol is to make electrocomp E. coli for plasmid transformations
-## This protocol is scaled for small batch production. If you want to scale up the process to create electrocomp cells that you can freeze in the -80C for future use, replace water for 10% glycerol
+#### This protocol is scaled for small batch production. If you want to scale up the process to create electrocomp cells that you can freeze in the -80C for future use, replace water with 10% glycerol
 
 1. Grow up E. coli in LB until OD 0.6. For each transformation, use 1-5mL of cell culture. 
 1. Spin down the culture (1 min at 10000rpm in the small centrifuge) and place on ice. 
